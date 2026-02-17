@@ -269,7 +269,7 @@ Jupyter Notebook
 
 Clone repository:
 
-git clone https://github.com/yourusername/humidity-prediction-ml.git
+git clone [https://github.com/Innovator-Nick/humidity-prediction-ml.git]
 
 
 Navigate to folder:
